@@ -1,0 +1,24 @@
+.div{
+    height: 50px;
+    width: 50px;
+    
+    border: 2px dotted;
+    border: outset black;
+    cursor: pointer;
+}
+.div:hover{
+    background-color: blue;
+    
+}
+#container{
+    gap: 2px;
+    flex-wrap: wrap;
+    display: flex;
+    height: 930px;
+    width: 930px;
+    border: 2px dotted;
+    border: outset blue;
+}
+.test{
+    font-size: 50px;
+}
