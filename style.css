@@ -1,12 +1,7 @@
 .div{
-    height: 50px;
-    width: 50px;
-    
-    border: 2px dotted;
-    border: outset black;
-    cursor: pointer;
+    border: 1px solid black;
 }
-.div:hover{
+.color{
     background-color: blue;
     
 }
@@ -19,6 +14,7 @@
     border: 2px dotted;
     border: outset blue;
 }
-.test{
-    font-size: 50px;
+body{
+margin: 0px;
+padding: 0px;
 }
